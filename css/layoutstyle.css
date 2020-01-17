@@ -1,0 +1,131 @@
+.top_header{
+   overflow: hidden;
+
+}
+
+
+.logo{
+	background-color: purple;
+	height: 100px;
+	width: 34%;
+	float: left;
+	margin-right: 5px;
+}
+
+.banner{
+	background-color: indigo;
+	height: 100px;
+	width: 65%;
+	float: right;
+
+}
+
+.header_bar{
+	background-color: teal;
+	height: 100px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
+
+.center_block{
+
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+
+.left_block{
+
+	background-color: skyblue;
+	height: 400px;
+	width: 28%;
+	float: left;
+	margin-right: 3px;
+
+}
+
+.middle_block{
+
+	background-color:lightgrey; 
+	height: 400px;
+	width: 43%;
+	float: left;
+	overflow: hidden;
+	margin-left: 5px;
+
+
+}
+
+.right_block{
+
+	background-color: lightblue;
+	height: 400px;
+	width: 28%;
+	float: right;
+
+
+}
+
+.top{
+
+	background-color: lavender;
+	height: 100px;
+	
+}
+
+
+.center{
+   
+   background-color: orange;
+   height: 200px;
+   overflow: hidden;
+
+
+
+
+}
+
+
+.bottom{
+
+	background-color: orchid;
+	height: 100px;
+
+
+
+}
+
+
+.c_left_block{
+
+	background-color: lightyellow;
+	height: 200px;
+	width: 50%;
+	float: left;
+
+
+}
+
+
+.c_right_block{
+
+	background-color: pink;
+	height: 200px;
+	width: 50%;
+	float: right;
+
+
+}
+
+footer{
+	background-color: orange;
+	height: 100px;
+	
+}
+
+h3{
+	margin: 0;
+
+}
+
+
